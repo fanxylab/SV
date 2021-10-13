@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #*********************************************************
-# @File    : bwaAlign.sh			                     *				
+# @File    : bwaAlign.sh			             *				
 # @Author  : WANG Jun                                    *
 # @Date    : 2021/03                                     *
 # @E-mail  : oucwj@outlook.com                           *               
