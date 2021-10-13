@@ -1,7 +1,7 @@
 #!/bin/usr/python
 
 **********************************************************
-* @File    : bam_proc.py					 *				
+* @File    : bam_proc.py			         *				
 * @Author  : WANG Jun                                    *
 * @Date    : 2021/03                                     *
 * @E-mail  : oucwj@outlook.com                           *               
