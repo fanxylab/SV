@@ -1,4 +1,10 @@
 #!/bin/usr/python
+**********************************************************
+* @File    : vcf2bed.py			         *				
+* @Author  : WANG Jun                                    *
+* @Date    : 2021/03                                     *
+* @E-mail  : oucwj@outlook.com                           *               
+**********************************************************
 
 import sys
 import os
