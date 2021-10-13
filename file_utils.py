@@ -1,5 +1,12 @@
 #!/bin/usr/python
 
+**********************************************************
+* @File    : file_utils.py			         *				
+* @Author  : WANG Jun                                    *
+* @Date    : 2021/03                                     *
+* @E-mail  : oucwj@outlook.com                           *               
+**********************************************************
+
 import sys
 import os
 import subprocess
